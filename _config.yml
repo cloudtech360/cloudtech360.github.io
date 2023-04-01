@@ -103,18 +103,12 @@ analytics:
 
 
 # Site Author
-authors:
+author:
   Rakesh
     name             : "Rakesh Rao"
     avatar           : "/assets/images/Rakesh.jpg"
     bio              : "Cloud Migrations SME"
     location         : "Bengaluru"
-    email            : email@domain.com
-  Santhosh
-    name             : "Your Name"
-    avatar           : "/assets/images/Santhosh.png"
-    bio              : "Cloud Solution Architect"
-    location         : "Chennai"
     email            : email@domain.com
 
 # Site Footer
