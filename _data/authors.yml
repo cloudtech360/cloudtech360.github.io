@@ -1,0 +1,28 @@
+# /_data/authors.yml
+
+Santhosh:
+  name        : "Santhosh Kumar Ramabadran"
+  bio         : "Cloud Solutions Architect - IBM"
+  avatar      : "/assets/images/Santhosh.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Rakesh:
+  name        : "Rakesh Rao"
+  bio         : "Cloud Migrations SME"
+  avatar      : "/assets/images/Rakesh.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
